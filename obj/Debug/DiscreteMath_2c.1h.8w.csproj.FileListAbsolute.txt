@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\DiscreteMath_2c.1h.8w\obj\Debug\DiscreteMath_2c.1h.8w.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DiscreteMath_2c.1h.8w\obj\Debug\DiscreteMath_2c.1h.8w.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\DiscreteMath_2c.1h.8w\obj\Debug\DiscreteMath_2c._1h._8w.Form1.resources
+C:\Users\user\source\repos\DiscreteMath_2c.1h.8w\obj\Debug\DiscreteMath_2c._1h._8w.Properties.Resources.resources
+C:\Users\user\source\repos\DiscreteMath_2c.1h.8w\obj\Debug\DiscreteMath_2c.1h.8w.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DiscreteMath_2c.1h.8w\obj\Debug\DiscreteMath_2c.1h.8w.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DiscreteMath_2c.1h.8w\bin\Debug\DiscreteMath_2c.1h.8w.exe.config
+C:\Users\user\source\repos\DiscreteMath_2c.1h.8w\bin\Debug\DiscreteMath_2c.1h.8w.exe
+C:\Users\user\source\repos\DiscreteMath_2c.1h.8w\bin\Debug\DiscreteMath_2c.1h.8w.pdb
+C:\Users\user\source\repos\DiscreteMath_2c.1h.8w\obj\Debug\DiscreteMath_2c.1h.8w.exe
+C:\Users\user\source\repos\DiscreteMath_2c.1h.8w\obj\Debug\DiscreteMath_2c.1h.8w.pdb
